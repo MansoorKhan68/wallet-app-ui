@@ -1,6 +1,6 @@
 # wallet_app_ui
 
-A new Flutter project.
+A simple single-screen wallet app focused entirely on UI design. The app displays balance, transaction history, and quick access buttons. It is UI-only, with no functional features implemented.
 
 ## Getting Started
 
